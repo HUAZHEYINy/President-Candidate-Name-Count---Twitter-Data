@@ -2,6 +2,7 @@
 
 <!--DOCTYPE html-->
 <meta charset="utf-8">
+<head>
 <style>
 
 .arc text {
@@ -14,6 +15,7 @@
 }
 
 </style>
+</head>
 <body>
 <script src="https://d3js.org/d3.v3.min.js"></script>
 <script>
@@ -67,3 +69,4 @@ function type(d) {
 }
 
     </script>
+    </body>
