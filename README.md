@@ -1,7 +1,6 @@
 # President-Candidate-Name-Count---Twitter-Data
 
 <!DOCTYPE html>
-<html>
 <meta charset="utf-8">
 <style>
 
@@ -67,5 +66,4 @@ function type(d) {
   return d;
 }
 
-    </script></body>
-</html>
+    </script>
