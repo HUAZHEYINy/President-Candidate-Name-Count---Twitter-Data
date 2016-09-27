@@ -67,6 +67,6 @@ function type(d) {
   d.population = +d.population;
   return d;
 }
-
-    </script>
- 
+</script>
+</body>
+</html>
