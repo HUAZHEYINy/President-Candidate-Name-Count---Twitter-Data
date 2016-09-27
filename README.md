@@ -7,4 +7,6 @@
 
 </br>
 
-<li>USA_President.html</li>
+<li>SourceCode/USA_President.html: D3.js - To Draw the Chart</li>
+<li>SourceCode/twitter.py: To collect Data source</li>
+<li>SOurceCode/handle_tweets.py: To handle raw data</li>
