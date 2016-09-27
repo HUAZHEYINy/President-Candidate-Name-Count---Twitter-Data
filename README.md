@@ -1,6 +1,6 @@
 # President-Candidate-Name-Count---Twitter-Data
 
-<!DOCTYPE html>
+<!--DOCTYPE html-->
 <meta charset="utf-8">
 <style>
 
