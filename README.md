@@ -4,7 +4,7 @@
 <p><img src="https://github.com/HUAZHEYINy/President-Candidate-Name-Count---Twitter-Data/blob/master/Result_Img.png"></p>
 
 <p>collect Twitter Data in one hour ( 14:27 - 15:27 PM Sep 27th)</p>
-
+<P>From the Pie Chart, We can get Trump are more discussible than Hillary...<br> I am keeping exploring more.</P>
 </br>
 
 <li>SourceCode/USA_President.html: D3.js - To Draw the Chart</li>
